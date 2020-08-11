@@ -31,16 +31,19 @@ Similarity = ABS(1-ABS(M-D)/M).
 **Tree Pose**
 
 <img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p1_tree_light.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p2_tree_light.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p3_tree_light.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p4_tree_light.png"/>
+
 <img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p1_tree_dark.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p2_tree_dark.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p3_tree_dark.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p4_tree_dark.png"/>
 
 **Warrior I Pose**
 
 <img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p1_warrior1_light.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p2_warrior1_light.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p3_warrior1_light.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p4_warrior1_light.png"/>
+
 <img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p1_warrior1_dark.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p2_warrior1_dark.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p3_warrior1_dark.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p4_warrior1_dark.png"/>
 
 **Warrior II Pose**
 
 <img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p1_warrior2_light.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p2_warrior2_light.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p3_warrior2_light.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p4_warrior2_light.png"/>
+
 <img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p1_warrior2_dark.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p2_warrior2_dark.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p3_warrior2_dark.png"/><img width="200" height="300" src="https://github.com/gym-tutor/Miss-Yoga-App/blob/master/evaluation_results/img/p4_warrior2_dark.png"/>
 
 
