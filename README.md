@@ -32,4 +32,4 @@ Similarity = ABS(1-ABS(M-D)/M).
 
 
 We used keypoint 0-14 of the following graph in our evaluation.
-![image](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/media/keypoints_pose_25.png)
+<div align=center><img width="300" height="450" src="https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/media/keypoints_pose_25.png"/></div>
