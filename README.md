@@ -29,3 +29,7 @@ The similarity is calculated as:
 Similarity = ABS(1-ABS(M-D)/M).
 
 **Tree Pose**
+
+
+We used keypoint 0-14 of the following graph in our evaluation.
+![image](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/media/keypoints_pose_25.png)
