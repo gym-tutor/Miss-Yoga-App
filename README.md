@@ -1,5 +1,11 @@
 # Miss Yoga
 
+## Publishment 
+[Paper](http://www.dicta2020.org/wp-content/uploads/2020/09/86_CameraReady.pdf)
+
+## Demo Video
+[https://youtu.be/JNcpdylywhM](https://youtu.be/JNcpdylywhM)
+
 ## Credits
 
 **Icon**
